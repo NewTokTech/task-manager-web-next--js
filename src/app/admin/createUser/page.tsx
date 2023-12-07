@@ -1,4 +1,4 @@
-import Form from '@/compontes/admin/createUser/Form'
+import Form from '@/components/admin/createUser/Form'
 import React from 'react'
 
 const page = () => {
